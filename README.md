@@ -3,16 +3,13 @@
 Data Science Bootcamp with 'adToy'
 
 We learn 10 sprints during 4 month program.
-
-- Spreadsheet
+- Basic Data Knowledge
+- Spreadsheets
 - SQL Database
-- R Programming
-- Data Transformantion
-- Data Visualization
+- Programming Foundation (R,Python)
+- Data Wrangling
+- Data Visualization & Dashboard
 - Statistics
 - Intro to 'Classical' Machine learning
-- Intro to Python
-- Essential Python for Data Analytyst
-- Dashboard
 
 Badges: 
