@@ -45,7 +45,4 @@ We learnt every sprints during 4 month program.
             - Convert TH to EN Date Project
             
             - ID Card Parser Project
-   
 
-
-Badges: 
